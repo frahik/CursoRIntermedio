@@ -1,4 +1,4 @@
-# CursoRIntermedio
+# CursoRIntermedio [![Beerpay](https://beerpay.io/frahik/CursoRIntermedio/badge.svg?style=flat-square)](https://beerpay.io/frahik/CursoRIntermedio) [![Beerpay](https://beerpay.io/frahik/CursoRIntermedio/make-wish.svg)](https://beerpay.io/frahik/CursoRIntermedio)  <a href='https://ko-fi.com/A465OV9' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 Éste es un repositorio con una diapositiva diseñada con `R` y  `Rmarkdown`, usando la librería [Slidify](https://github.com/ramnathv/slidify/) para enseñar estadística usando R y otros detalles para personas con un nivel intermedio para el uso R.
 
